@@ -1,6 +1,6 @@
 #! /bin/sh
 
-# Daily MYSQL Backup for Dreamhost
+# Daily MYSQL Backup
 
 # date suffix to append to file
 suffix=$(date +%Y.%m.%d)
