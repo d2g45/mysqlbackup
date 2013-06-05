@@ -1,0 +1,3 @@
+database:domain.com
+db_name:url.net
+db:website.org
